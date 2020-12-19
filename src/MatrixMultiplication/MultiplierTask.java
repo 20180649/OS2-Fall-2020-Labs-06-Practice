@@ -25,3 +25,4 @@ public abstract class MultiplierTask implements Runnable {
         this.matrix2 = matrix2;
     }
 }
+
